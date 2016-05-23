@@ -1,0 +1,15 @@
+*-------------------------------------------------------------------------------------------------*
+As you were instructed to do, you followed the path out of town to the east to reach the cursed cave
+"So what kind of curse does this cave have placed on it?", you ask Marie
+"From what I could gather, it's cursed with some sort of repetition curse", Marie replies
+"Repetition curse? What does that do?"
+"As the name implies, it makes you repeat some action until you achieve the base case, or clear condition"
+"Well, that sounds like the opposite of fun"
+"Every adventure must have a tedious repetetive portion, it's like 'Adventure-Writing 101'"
+"Oh really? Well then what's rule #2?"
+"Diversity. Location differences, character differences, that kind of thing"
+"So sort of like your Snark and my Bark"
+"Yeah. We should form a society"
+Your conversation is interrpted by the sound of screams.
+"Those sound like tortured screams. I guess we made it to the cave"
+*-------------------------------------------------------------------------------------------------*

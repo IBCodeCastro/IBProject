@@ -1,0 +1,18 @@
+"Well, without my power helping you, you'd be obliterated within seconds of nearing Him"
+"Fine, I guess I really have no choice then, do I?"
+"Not really, no. Just let me bite your hand and the contract will be sealed"
+"Wait, why do you have to bite m-OW!", you scream as Marie chomps on your hand
+"Once she lets go, a mark appears on your hand, but everything fades out as you start to lose consciousness
+"Probably should have warned you about that. Oh well. Congratulations, hero. You..signed...deal....with..."
+Having trouble hearing Marie's words, you finally drift into unconsciousness
+You wake up in a town's inn, with Marie sitting beside you
+"So you finally woke up? I had no idea that it affected the contractee so much");
+"You've probably got a lot of questions, and I will answer them in time. But first, we need the Minotaur's Horn"
+"And you want me to go get it? Did signing that contract get me any new powers?", you inquire
+"Yes, and yes. Try focusing hard and swinging your weapon"
+You do that, and find that your sword swings almost at the speed of light and into a nearby vase, but it doesn't shatter
+You try again to break it, and on your third swing the vase shatters into a billion pieces
+"That's an enchant that reduces damage but increases the chance of hitting a weak point", Marie informs you
+"So, lets go get that horn"
+**********You've gained the ability "Swift Strike"**********
+*------------------------------------------------------------------------------------*

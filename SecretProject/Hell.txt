@@ -1,0 +1,15 @@
+*----------------------------------------------------------------------------------------------------*
+As you turn to leave the village, you are stopped by the village elder
+"Hero", he says, "I must thank you for freeing our village from its opression and misery"
+"You're welcome, it wasn't all that big of a deal", you say humbly
+"As a way of saying thanks, we have some information for you before you go", he says as he motions to someone
+"Good day, hero", the person greets you as they walk towards you, "My name is Kachishi, and I am a spy for the rebels"
+"Nice to meet you, Kachishi. Gonna have to skip some pleasantries as I am on a tight schedule"
+"Then I shall make things quick. In order to defeat the Demon Lord, you'll need to obtain the 12 Aberrant Blades"
+"Another fetch quest? Kill me now"
+"No, I do believe that 11 of them should be found within the Demon Lord's castle"
+"Only 11? What about the twelfth?"
+"We managed to steal one of them while he was away conquering part of the overworld"
+Kachishi motions towards a trunk that was hidden away in the corner
+"Open it, you're gonna need it more than we are"
+You open the trunk, and you gaze upon its contents in wonder. Inside of the trunk appears to be a straight katana

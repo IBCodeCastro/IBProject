@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=n\ v
+comment0.target=Item(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor,\ establishes\ name\ of\ item\ and\ its\ value\r\n
+comment1.params=
+comment1.target=int\ getValue()
+comment1.text=\r\n\ Returns\ the\ value\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Returns\ the\ name\r\n
+numComments=3

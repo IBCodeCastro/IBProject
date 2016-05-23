@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=h\ l\ t
+comment0.target=FinalBattle(Hero,\ Lover,\ Text)
+comment1.params=
+comment1.target=boolean\ battle()
+comment1.text=\r\n\ This\ method\ is\ run\ by\ initiating\ the\ final\ battle\ in\ the\ previous\ area\r\n\ If\ you\ fail\ to\ defeat\ the\ Demon\ King,\ it\ displays\ the\ bad\ ending,\ credits,\ then\ allows\ you\ to\ go\ back\ to\ the\ previous\ area\r\n\ use\ this\ opportunity\ to\ train\ and\ try\ again\r\n
+comment2.params=
+comment2.target=void\ printMenu()
+comment3.params=
+comment3.target=void\ finishHim()
+numComments=4

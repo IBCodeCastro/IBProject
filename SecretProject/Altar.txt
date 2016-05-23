@@ -1,0 +1,16 @@
+*---------------------------------------------------------------------*
+You awlk over to the altar to investigate it
+"It says here that you need to place the baldes onto it", Marie discovers
+"Well then we should start out with The Absolute Sword, Zutto Kanna or whatever", you reply
+You place the sword onto the altar, when suddenly a bright flash of light blinds you!
+"Gah! What's happening!?", you cry out
+"I'm not too sure but keep your eyes closed!"
+The bright light soon begins to fade, and the sword has disappeared from the altar
+"So we just lost one of the swords. Great."
+"Hold on, look at the wall"
+You turn to look at the wall and see that one of the indentations is glowing with the sword inside of it
+"What's up with this one?", you ask
+"I think that the goal of this room is to colect all of the swords and get them into the wall"
+"Any idea what is gonna happen when do?"
+"No, but it's our only option so we might as well try it out"
+*---------------------------------------------------------------------*

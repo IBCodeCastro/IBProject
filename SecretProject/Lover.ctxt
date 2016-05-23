@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=gender
+comment0.target=Lover(java.lang.String)
+comment0.text=\r\n\ Constructor,\ establishes\ which\ pronoun\ to\ use\r\n
+comment1.params=gender\ n
+comment1.target=Lover(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor,\ establishes\ which\ pronoun\ to\ use\ and\ the\ name\r\n
+comment2.params=n
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ Sets\ the\ name\ of\ the\ love\ interest\r\n
+numComments=3

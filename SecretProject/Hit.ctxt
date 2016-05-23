@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hit()
+comment1.params=percent
+comment1.target=boolean\ hit(double)
+comment2.params=damage\ percent
+comment2.target=int\ crit(int,\ double)
+numComments=3

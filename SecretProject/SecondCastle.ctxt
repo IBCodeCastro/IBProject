@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=h\ l\ t
+comment0.target=SecondCastle(Hero,\ Lover,\ Text)
+comment0.text=\r\n\ Constructor,\ gets\ passed\ the\ Hero,\ Lover,\ and\ Text\ classes\ from\ the\ previous\ area\r\n
+comment1.params=
+comment1.target=void\ printStartArea()
+comment1.text=\r\n\ Prints\ the\ area\ menu\r\n\ Menu\ changes\ depending\ on\ area\r\n
+comment2.params=
+comment2.target=void\ startArea()
+comment2.text=\r\n\ Runs\ the\ area\ menu,\ takes\ in\ the\ selection\r\n
+comment3.params=
+comment3.target=void\ shop()
+comment4.params=
+comment4.target=void\ battle()
+comment5.params=boss
+comment5.target=void\ battle(int)
+comment6.params=
+comment6.target=void\ printMenu()
+comment7.params=
+comment7.target=void\ talkToMarie()
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=h\ t
+comment0.target=Endless(Hero,\ Text)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Endless\r\n
+comment1.params=
+comment1.target=void\ endlessStart()
+comment1.text=\r\n\ Start\ of\ EE\r\n
+comment2.params=
+comment2.target=void\ printMenu()
+numComments=3
