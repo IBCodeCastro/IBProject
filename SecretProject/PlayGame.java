@@ -24,6 +24,7 @@ public class PlayGame
             System.out.println("*-------------------------------*");
             System.out.println("Welcome, Hero! What is your name?");
             System.out.println("*-------------------------------*");
+            scan.nextLine();
             String name = scan.nextLine();
             Hero hero = new Hero(name);
             System.out.println("*--------------------------*");
